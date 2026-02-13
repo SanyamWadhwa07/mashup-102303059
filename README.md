@@ -54,9 +54,7 @@ python app.py
 ## EmailJS Configuration
 
 The web app uses EmailJS to send emails. Credentials are already configured:
-- Public Key: s0qz07TFYkGJPw_7Z
-- Service ID: service_asstztj
-- Template ID: template_vpx
+
 
 ## Troubleshooting
 
